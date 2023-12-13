@@ -12,7 +12,7 @@ int main(void)
 
 	while (1)
 	{
-		printf("#cisfun$ ");
+		printf("$ ");
 		fgets(com, MAX_COMMAND_LENGTH, stdin);
 		if (strcmp(com, "exit\n") == 0)
 		{
