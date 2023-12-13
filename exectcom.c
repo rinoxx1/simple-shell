@@ -1,3 +1,4 @@
+#include"shell.h"
 /**
  * executeCommand - Main function to execute a command
  * @com: The command to execute

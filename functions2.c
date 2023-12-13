@@ -1,3 +1,4 @@
+#include"shell.h"
 /**
  * handleExitCommand - Function to handle exit command
  */

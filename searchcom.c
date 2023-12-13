@@ -1,3 +1,4 @@
+#include"shell.h"
 /**
  * searchCommanInPath - searches for the command in the PATH
  * @command: the command to search for

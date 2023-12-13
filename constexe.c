@@ -1,3 +1,4 @@
+#include"shell.h"
 /**
  * constructFullPath - Function to construct the full command path
  * @token: The token
